@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Administrator/Downloads/Devops%20exam/mlruns/351253347339572607/90f13c6b5a4c4d9fb9c50b2d3bc7dff2/artifacts
+end_time: 1770799924190
+entry_point_name: ''
+experiment_id: '351253347339572607'
+lifecycle_stage: active
+run_id: 90f13c6b5a4c4d9fb9c50b2d3bc7dff2
+run_name: redolent-skink-449
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1770799916198
+status: 3
+tags: []
+user_id: Administrator

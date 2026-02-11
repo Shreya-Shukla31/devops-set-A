@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/Administrator/Downloads/Devops%20exam/mlruns/351253347339572607/models/m-e9e29c28c44447829cc9f287643540d5/artifacts
+creation_timestamp: 1770799916383
+experiment_id: '351253347339572607'
+last_updated_timestamp: 1770799924151
+model_id: m-e9e29c28c44447829cc9f287643540d5
+model_type: null
+name: trained_model
+source_run_id: 90f13c6b5a4c4d9fb9c50b2d3bc7dff2
+status: 2
+status_message: null

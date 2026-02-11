@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Administrator/Downloads/Devops%20exam/mlruns/351253347339572607/385e26fe123042ac8f9485bb9b4a8b46/artifacts
+end_time: 1770799764567
+entry_point_name: ''
+experiment_id: '351253347339572607'
+lifecycle_stage: active
+run_id: 385e26fe123042ac8f9485bb9b4a8b46
+run_name: unequaled-skunk-135
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1770799764460
+status: 4
+tags: []
+user_id: Administrator

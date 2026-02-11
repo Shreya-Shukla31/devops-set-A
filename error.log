@@ -1,0 +1,7 @@
+This solver needs samples of at least 2 classes in the data, but the data contains only one class: np.int64(0)
+Invalid API Input:
+1 validation error:
+  {'type': 'float_parsing', 'loc': ('body', 'feature1'), 'msg': 'Input should be a valid number, unable to parse string as a number', 'input': 'abc'}
+
+  File "C:\Users\Administrator\Downloads\Devops exam\api.py", line 65, in predict
+    POST /predict
